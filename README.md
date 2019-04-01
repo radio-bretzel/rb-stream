@@ -1,3 +1,4 @@
-# rb-streamer
+# Radio Bretzel Streaming Module
 
-Radio Bretzel custom streaming server
+This app is a core part of the Radio Bretzel application. It proxies and caches
+audio stream for Radio Bretzel Team members.
